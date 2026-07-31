@@ -1,0 +1,77 @@
+<html>
+    <head>
+     <title>tabla</title>
+    </head>
+    <body bgcolor="pink">
+        <h1 style="text-align: center; color: rgb(140, 0, 255); font-size: 50px;  font-family: Arial, Helvetica, sans-serif; text-decoration: underline;">TABLA DE PAISES</h1>
+        <center><table border="4px"></center>
+            <tr>
+                <th>Pais</th>
+                <th>Capital</th>
+                <th>Poblacion</th>
+                <th>Moneda</th>
+            </tr>
+            <tr>
+                <td>Ecuador</td>
+                <td>Quito</td>
+                <td>18.000.000</td>
+                <td>Dolar</td>
+            </tr>
+             <tr>
+                <td>Irak</td>
+                <td>Bagdad</td>
+                <td>46.118.000</td>
+                <td>Dinar iraquí</td>
+            </tr>
+            <tr>
+                <td>Rusia</td>
+                <td>Moscú</td>
+                <td>143.394.458</td>
+                <td>Rublo Ruso</td>
+            </tr>
+            <tr>
+                <td>Francia</td>
+                <td>París</td>
+                <td>68.606.000</td>
+                <td>Euro</td>
+            </tr>
+            <tr>
+                <td>Alemania</td>
+                <td>Berlín</td>
+                <td>83.644.258</td>
+                <td>Euro</td>
+            </tr>
+            <tr>
+                <td>India</td>
+                <td>Nueva Delhí</td>
+                <td>1.476.625.576</td>
+                <td>Rupia India</td>
+            </tr>
+            <tr>
+                <td>Australia</td>
+                <td>Canberra</td>
+                <td>27.994.737</td>
+                <td>Dolar Australiano</td>
+            </tr>
+            <tr>
+                <td>Corea Del Sur</td>
+                <td>Seul</td>
+                <td>51.600.388</td>
+                <td>Won surcoreano</td>
+            </tr>
+            <tr>
+                <td>corea del norte</td>
+                <td>Pionyang</td>
+                <td>26.633.691</td>
+                <td>Won Norcoreano</td>
+            </tr>
+            <tr>
+                <td>jAPON</td>
+                <td>tokio</td>
+                <td>123.767.642</td>
+                <td>Yen japones</td>
+            </tr>
+        </table>
+        <p style="color:brown; font-size:50px; text-align: center; text-decoration: underline;">Samantha Chichande </p>
+    </body> 
+</html>
